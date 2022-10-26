@@ -1,0 +1,1 @@
+Hi <?php echo e($user->name); ?>, your withdrawal is completed and we've sent <?php echo e($withdrawal->currency_symbol); ?><?php echo e($withdrawal->net); ?> to <?php echo e($withdrawal->send_to_platform_name); ?>: <?php echo e($withdrawal->platform_id); ?> account. Cheers !

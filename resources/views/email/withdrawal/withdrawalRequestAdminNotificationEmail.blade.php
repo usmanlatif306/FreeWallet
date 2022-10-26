@@ -1,0 +1,1 @@
+Good Day, you have a new {{$withdrawal->currency_symbol}}{{$withdrawal->net}} withdrawal request from {{$user->name}} waiting to be reviewed. 

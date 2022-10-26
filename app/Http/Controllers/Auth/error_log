@@ -1,0 +1,10 @@
+[03-Aug-2018 16:28:47 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[03-Aug-2018 19:12:24 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[03-Aug-2018 19:26:08 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/LoginController.php on line 8
+[04-Aug-2018 08:55:42 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/RegisterController.php on line 11
+[04-Aug-2018 09:40:39 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[04-Aug-2018 11:09:41 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[28-Sep-2018 11:42:45 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ResetPasswordController.php on line 8
+[28-Sep-2018 19:34:18 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/RegisterController.php on line 11
+[28-Sep-2018 19:39:48 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/ForgotPasswordController.php on line 8
+[29-Sep-2018 16:46:16 America/New_York] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/scrizrea/pagador.scriptdemo.website/app/Http/Controllers/Auth/LoginController.php on line 8

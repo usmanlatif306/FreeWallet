@@ -1,0 +1,1 @@
+Howdy <?php echo e($user->name); ?> , your <?php echo e($withdrawal->currency_symbol); ?><?php echo e($withdrawal->net); ?> withdrawal is waiting to be processed. 

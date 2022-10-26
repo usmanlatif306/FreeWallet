@@ -1,0 +1,1 @@
+Hi {{$user->name}}, {{$deposit->currency_symbol}}{{$deposit->net}} have been deposited to your {{setting('site.site_name')}}  account.

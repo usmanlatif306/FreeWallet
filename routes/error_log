@@ -1,0 +1,44 @@
+[12-Jul-2018 22:28:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/pagador.scriptdemo.website/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/web.php on line 13
+[13-Jul-2018 01:40:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/pagador.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/channels.php on line 14
+[13-Jul-2018 09:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/scrizrea/pagador.scriptdemo.website/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/console.php on line 16
+[14-Jul-2018 09:12:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/pagador.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/channels.php on line 14
+[15-Jul-2018 02:04:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/pagador.scriptdemo.website/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/web.php on line 13
+[01-Aug-2018 21:41:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/pagador.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/api.php on line 16
+[15-Sep-2018 20:56:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/pagador.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/pagador.scriptdemo.website/routes/api.php on line 16
+[02-Mar-2019 02:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/dev.scriptdemo.website/routes/api.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/routes/api.php on line 16
+[02-Mar-2019 02:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Broadcast' not found in /home/scrizrea/dev.scriptdemo.website/routes/channels.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/routes/channels.php on line 14
+[02-Mar-2019 02:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Artisan' not found in /home/scrizrea/dev.scriptdemo.website/routes/console.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/routes/console.php on line 16
+[02-Mar-2019 02:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/scrizrea/dev.scriptdemo.website/routes/web.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/scrizrea/dev.scriptdemo.website/routes/web.php on line 13

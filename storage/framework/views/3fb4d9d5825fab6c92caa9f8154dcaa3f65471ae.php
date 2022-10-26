@@ -1,0 +1,1 @@
+Howdy, you have a new deposit request from <?php echo e($user->name); ?> waiting to be reviewed. 

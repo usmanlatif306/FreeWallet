@@ -1,0 +1,1 @@
+Good Day, you have a new deposit request from {{$user->name}} waiting to be reviewed. 

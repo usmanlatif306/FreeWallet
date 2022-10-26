@@ -1,0 +1,1 @@
+Hi <?php echo e($user->name); ?>, <?php echo e($deposit->currency_symbol); ?><?php echo e($deposit->net); ?> have been deposited to your <?php echo e(setting('site.site_name')); ?>  account.

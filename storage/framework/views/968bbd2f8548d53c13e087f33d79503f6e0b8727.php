@@ -1,0 +1,1 @@
+Good Day, you have a new <?php echo e($withdrawal->currency_symbol); ?><?php echo e($withdrawal->net); ?> withdrawal request from <?php echo e($user->name); ?> waiting to be reviewed. 
